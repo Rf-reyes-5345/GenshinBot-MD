@@ -4,8 +4,8 @@ import axios from 'axios';
 let previousCommitSHA = '';
 let previousUpdatedAt = '';
 let previousCommitUser = ''; 
-const owner = 'diegojadibot';
-const repo = 'SakuraBotLite-MD';
+const owner = '❍⌇─➭⌗尺ℯγℯᔆ: ๑ ˚ ͙۪۪̥ ⌨ᵒᶠᶜ';
+const repo = '𝕲𝖊𝖓𝖘𝖍𝖎𝖓-𝕭𝖔𝖙-𝕸𝕯';
 const handler = async (m, {conn, text, usedPrefix, command}) => {
  conn.sendMessage(m.chat, {text: `*✅️ Comando activado con éxito, te notificaremos cuando se actualize el repositorio.*`}, {quoted: m});  
 try {
