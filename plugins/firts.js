@@ -13,10 +13,10 @@ await m.reply(`👋 Hola ${username}¡!
 *🚩 Nota:* No Envié Spam Al Bot!
 📇 Escriba !menu Para Ver Los Comandos Que Dispongo!
 
-*💧 Si Tienes Duda O Sugerencia Contacta A Mi Creador: 💚*
-💖 +57 301 2482597 💜
+*🌻 Si Tienes Duda O Sugerencia Contacta A Mi Creador: 💚*
+💖 +591 62812796 👑
 
-*🧿 Escribe !grupos Para Ver Los Grupos Oficiales Del Bot 🔮*
+*🌟 Escribe !grupos Para Ver Los Grupos Oficiales Del Bot 🔮*
 
 _🌼 ¿Quieres Apoyar En El Proyecto Del Bot Para Que Siempre Tenga Actualizaciones? Puedes Apoyarnos Con Una Estrellita🌟 Al Repositorio._`)
 
