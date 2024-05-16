@@ -13,22 +13,21 @@ global.confirmCode = ""
 
 //• ↳𝑷𝑶𝑵 𝑳𝑶𝑺 𝑵𝑼𝑴𝑬𝑹𝑶𝑺 𝑸𝑼𝑬 𝑸𝑼𝑰𝑬𝑹𝑨𝑺
 global.owner = [
-['59162812796', '👑 𝗖𝗿𝗲𝗮𝗱𝗼𝗿 ⚡️', true],
+['59175409126', '👑 𝗖𝗿𝗲𝗮𝗱𝗼𝗿 ⚡️', true],
 ['526673044254', '𝗢𝘄𝗻𝗲𝗿 📖', true],
 ['59162793728', '𝗦𝘂𝗽𝗽𝗼𝗿𝘁 💻', true],
-['59174469715', 'Editora 🌟', true],
 ['59174469715'],
 ['5492266613038'],
 ['51935499065']]
 
 //• ↳𝑨𝑮𝑹𝑬𝑮𝑨𝑻𝑬 𝑺𝑰 𝑬𝑹𝑬𝑺 𝑶𝑾𝑵𝑬𝑹
 global.contactos = [
-["59162812796", ' 𝗗❍⌇─➭⌗尺ℯγℯᔆ: ๑ ˚ ͙۪۪̥◌ ⌨ ', 1],
+["59175409126", ' ❍⌇─➭⌗尺ℯγℯᔆ: ๑ ˚ ͙۪۪̥◌ ⌨ ', 1],
 ["526673044254", ' 𝗢𝘄𝗻𝗲𝗿 📖', 1],
 ["59162793728", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 🍧', 1],
 ["50558124470", '𝗦𝘂𝗽𝗽𝗼𝗿𝘁  💻', 1]]
 
-global.suittag = ['59162812796'];
+global.suittag = ['59175409126'];
 global.prems = ['526673044254'];
 
 global.lenguajeSK = es //idioma de sakurabot
@@ -95,7 +94,7 @@ global.wm2 = `${dia} ${fecha}\nGenshinBot`;
 global.gt = 'GenshinBot';
 global.mysticbot = 'GenshinBot';
 global.mysticbot = 'https://github.com/Jhonatancondori/GenshinBot-MD';
-global.nomorown = '59162812796';
+global.nomorown = '59175409126';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
