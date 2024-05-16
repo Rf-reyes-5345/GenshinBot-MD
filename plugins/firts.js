@@ -14,7 +14,7 @@ await m.reply(`👋 Hola ${username}¡!
 📇 Escriba !menu Para Ver Los Comandos Que Dispongo!
 
 *🌻 Si Tienes Duda O Sugerencia Contacta A Mi Creador: 💚*
-💖 +591 62812796 👑
+💖 +591 75409126 👑
 
 *🌟 Escribe !grupos Para Ver Los Grupos Oficiales Del Bot 🔮*
 
