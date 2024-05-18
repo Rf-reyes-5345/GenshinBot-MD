@@ -33,7 +33,7 @@ global.prems = ['526673044254'];
 global.lenguajeSK = es //idioma de sakurabot
 
 //• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 🍁
-global.packname = 'GenshinBot-𝙈𝘿 🌸';
+global.packname = '𝕲𝖊𝖓𝖘𝖍𝖎𝖓-𝕭𝖔𝖙-𝕸𝕯 🌸';
 global.author = '❍⌇─➭⌗尺ℯγℯᔆ: ๑ ˚ ͙۪۪̥ ⌨ᵒᶠᶜ 🌩';
 global.wm = 'Genshin : Bot 🌹';
 global.sk = 'Genshin : 𝗕𝗈𝗍 - MD';
@@ -60,7 +60,7 @@ global.imagen7 = fs.readFileSync('./AhoraQue.png');
 global.imagen8 = fs.readFileSync('./Que.jpg');
 
 //• ↳ ◜𝑳𝑰𝑵𝑲𝑺◞ • 🌿
-global.gp1 = 'https://chat.whatsapp.com/LanHD8UFzz35hBwxoyhgin' //Grupo Oficial De SakuraBot
+global.gp1 = 'https://chat.whatsapp.com/HLzGa59AvZXBKd5INhzb6v' //Grupo Oficial De SakuraBot
 
 global.gp2 = 'https://chat.whatsapp.com/KaMaYzT38gW5IcuoL5Wy2K' //CuriosityBot Y SakuraBot
 
