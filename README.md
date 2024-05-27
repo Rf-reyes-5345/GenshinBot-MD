@@ -116,6 +116,6 @@ para usuarios del heroku
 
 ### Editor Y Propietario Del Bot 🌹⚡️
 <a
-href="https://github.com/Jhonatancondori"><img src="https://github.com/Jhonatancondori.png" width="200" height="200" alt="Reyes"/></a>
+href="https://github.com/Rf-reyes-5345"><img src="https://github.com/Jhonatancondori.png" width="200" height="200" alt="Reyes"/></a>
 
 
