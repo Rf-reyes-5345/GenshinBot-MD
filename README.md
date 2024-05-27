@@ -9,11 +9,11 @@
 
 > Si PRUEBA EL BOT AQUI.🟢
 
-<a href="https://chat.whatsapp.com/LanHD8UFzz35hBwxoyhgin"><img alt="📍 Grupo Oficial" src="https://img.shields.io/badge/Grupo-Oficial-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://chat.whatsapp.com/HLzGa59AvZXBKd5INhzb6v"><img alt="📍 Grupo Oficial" src="https://img.shields.io/badge/Grupo-Oficial-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 
 - ### 🌤CONFIGURACION🧩
- Clonar Repo : GenshinBot [Aqui.](https://github.com/Jhonatancondori/GenshinBot-MD.git/fork)
+ Clonar Repo : GenshinBot [Aqui.](https://github.com/Rf-reyes-5345/GenshinBot-MD.git)
 
    
   
@@ -38,7 +38,7 @@ termux-setup-storage
 ```
 
 ```bash
-apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://github.com/Jhonatancondori/GenshinBot-MD/master/sakura.sh | bash
+apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://github.com/Rf-reyes-5345/GenshinBot-MD.git-MD/master/sakura.sh | bash
 ```
 
 - #### 📍INSTALACION👨‍💻
@@ -55,7 +55,7 @@ termux-setup-storage
 apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 ```bash
-git clone https://github.com/Jhonatancondori/GenshinBot-MD && cd GenshinBot-MD
+git clone https://github.com/Rf-reyes-5345/GenshinBot-MD.git && cd GenshinBot-MD
 ```
 ```bash
 yarn install && npm install
@@ -91,12 +91,12 @@ Para que no pierda su progreso en SakuraBot, estos comandos realizarán un respa
 - ### 📍 Activar En Heroku 🚀
 para usuarios del heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jhonatancondori/GenshinBot-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Rf-reyes-5345/GenshinBot-MD)
 
 #### Heroku Buildpack
 | BuildPack | LINK |
 |--------|--------|
-| **FFMPEG** |[click](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest) |
+| **FFMPEG** |[click](https://github.com/Rf-reyes-5345/GenshinBot-MD.git) |
 | **IMAGEMAGICK** | [click](https://github.com/DuckyTeam/heroku-buildpack-imagemagick) |
 
 ***
@@ -104,7 +104,7 @@ para usuarios del heroku
 
 ## <img src="https://i.pinimg.com/originals/19/80/6e/19806e91932e6054965fc83b85241270.gif" alt="Creator 🧸" width="42" height="42"> Creator 🧸
 
-* <a href="https://wa.me/59162812796"><img alt="Creator 🧸" src="https://img.shields.io/badge/Reyes - Creator🧸-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+* <a href="https://wa.me/59175409126"><img alt="Creator 🧸" src="https://img.shields.io/badge/Reyes - Creator🧸-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 
 ## <img src="https://static.wikia.nocookie.net/nyancat/images/d/d3/Nyan-cat.gif/revision/latest/scale-to-width-down/400?cb=20131231222500&path-prefix=es" alt="Grupo" width="45" height="43"> Bot Oficial 📍
@@ -116,6 +116,6 @@ para usuarios del heroku
 
 ### Editor Y Propietario Del Bot 🌹⚡️
 <a
-href="https://github.com/Rf-reyes-5345"><img src="https://github.com/Jhonatancondori.png" width="200" height="200" alt="Reyes"/></a>
+href="https://github.com/Rf-reyes-5345"><img src="https://github.com/Reyes5345.png" width="200" height="200" alt="Reyes"/></a>
 
 
