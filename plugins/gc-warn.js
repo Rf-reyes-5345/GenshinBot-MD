@@ -40,7 +40,7 @@ const handler = async (m, {conn, text, command, usedPrefix}) => {
     await m.reply(
         `Te lo advertí varias veces\n*@${
           who.split`@`[0]
-        }* Superastes las *3* advertencias, procedo a eliminarte 🍧`,
+        }* Superastes las *3* advertencias, procedo a eliminarte por pendejo🍧`,
         null,
         {mentions: [who]},
     );
