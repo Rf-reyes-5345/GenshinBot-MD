@@ -30,14 +30,14 @@ const handler = async (m, { conn, usedPrefix }) => {
 │
 │•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•
 │
-│➸ *🧸Chats*
+│➸ *🪆Chats*
 │➸ 𝘊𝘩𝘢𝘵𝘴 𝘗𝘳𝘪𝘷𝘢𝘥𝘰𝘴: *${chats.length - groups.length}*
 │➸ 𝘊𝘩𝘢𝘵𝘴 𝘋𝘦 𝘎𝘳𝘶𝘱𝘰𝘴: *${groups.length}* 
 │➸ 𝘊𝘩𝘢𝘵𝘴 𝘛𝘰𝘵𝘢𝘭𝘦𝘴: *${chats.length}* 
 │
 │•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•
 │
-│➸ 𝙎𝙖𝙠𝙪𝙧𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿🧸📍
+│➸ 𝙂𝙚𝙣𝙨𝙝𝙞𝙣 𝘽𝙤𝙩-𝙈𝘿🧸📍
 ╰━━━━━━･❪ ❁ ❫ ･━━━━━━❖`.trim();
   const doc = [
     "pdf",
@@ -48,16 +48,16 @@ const handler = async (m, { conn, usedPrefix }) => {
   ];
   const document = doc[Math.floor(Math.random() * doc.length)];
   const Message = {
-    document: { url: `https://github.com/diegojadibot/SakuraBotLite-MD` },
+    document: { url: `https://github.com/Rf-reyes-5345/GhenshinBot-MD` },
     mimetype: `application/${document}`,
-    fileName: `Sakura Bot Lite 🌸`,
+    fileName: `Genshin Bot 🌟`,
     fileLength: 99999999999999,
     pageCount: 200,
     contextInfo: {
       forwardingScore: 200,
       isForwarded: true,
       externalAdReply: {
-        mediaUrl: "https://github.com/diegojadibot/SakuraBotLite-MD",
+        mediaUrl: "https://github.com/Rf-reyes-5345/GhenshinBot-MD",
         mediaType: 2,
         previewType: "pdf",
         title: "Tᴜ Mᴇᴊᴏʀ Bᴏᴛ!",
