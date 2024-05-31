@@ -8,22 +8,22 @@ let str = `*🔮 GRUPOS OFICIALES*
   *_┃🌩❏ ${gp1}_*
 *_╰━━━━━━━━━━━━━━━━⊜_*
 
- *🔮 GRUPOS EN COLABORACIÓN*
+ *🔮 MAS GRUPOS*
 
-    *_╭━━━⊜ Curiosity y SakuraBot_*
+    *_╭━━━⊜ grupo de links_*
   *_┃🌦❏ ${gp2}_*
 *_╰━━━━━━━━━━━━━━━━⊜_*
 
-    *_╭━━━⊜ NovaBot & SakuraBot_*
+    *_╭━━━⊜ grupo de roll_*
   *_┃🌦❏ ${gp3}_*
 *_╰━━━━━━━━━━━━━━━━⊜_*
 
-*_╭━━━⊜ Lobo-Bot-Lite & SakuraBot_*
-┃🌦❏https://chat.whatsapp.com/LlzwRu4dQZLLUctezfzcxt
+*_╭━━━⊜ fans de la aviacion_*
+┃🌦❏https://chat.whatsapp.com/CLqUSRzmHK7L8d6V61EYnV
 *_╰━━━━━━━━━━━━━━━━⊜_*
 
 
-    *_╭━━━⊜ Canal SakuraLite_*
+    *_╭━━━⊜ Canal GenshinBot-MD_*
   *_┃🌦❏ ${channel}_*
 *_╰━━━━━━━━━━━━━━━━⊜_*`
 await conn.sendFile(m.chat, media, 'gata.mp4', str, fkontak)}
