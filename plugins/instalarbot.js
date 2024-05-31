@@ -39,7 +39,7 @@ const document = doc[Math.floor(Math.random() * doc.length)];
 
 ➪ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn 
 
-➪ git clone https://github.com/Rf-reyes-5345/GhenshinBot-MD && cd GenshinBot-MD && cd GenshinBot-MD
+➪ git clone https://github.com/Rf-reyes-5345/GhenshinBot-MD && cd GenshinBot-MD
 
 ➪ yarn install
 
