@@ -25,13 +25,13 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
 
 
 const document = doc[Math.floor(Math.random() * doc.length)];
- const str = `🧸 *Instalación Automatica* (Termux)
+ const str = `🌟 *Instalación Automatica* (Termux)
    
 ➪ termux-setup-storage
 
-➪ apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/diegojadibot/SakuraBotLite-MD/master/sakura.sh | bash
+➪ apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://github.com/Rf-reyes-5345/GhenshinBot-MD/master/genshin.sh | bash
 
-🧸 *Instalación Manual* (Termux) 📍
+💧 *Instalación Manual* (Termux) 📍
 
 ➪ cd && termux-setup-storage
 
@@ -39,7 +39,7 @@ const document = doc[Math.floor(Math.random() * doc.length)];
 
 ➪ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn 
 
-➪ git clone https://github.com/diegojadibot/SakuraBotLite-MD.git && cd SakuraBotLite-MD
+➪ git clone https://github.com/Rf-reyes-5345/GhenshinBot-MD && cd GenshinBot-MD && cd GenshinBot-MD
 
 ➪ yarn install
 
@@ -53,15 +53,15 @@ const document = doc[Math.floor(Math.random() * doc.length)];
 
 ➪ cd
 
-➪ cd SakuraBotLite-MD
+➪ cd GenshinBot-MD
 
 ➪ npm start
 
 🧸 *Obtener Otro Codigo Qr* 📍
 
-➪ cd SakuraBotLite-MD
+➪ cd GenshinBot-MD
 
-➪ rm -rf SakuraBotSession
+➪ rm -rf SakuraSession
 
 ➪ npm start
 
