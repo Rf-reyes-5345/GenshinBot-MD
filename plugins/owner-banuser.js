@@ -13,7 +13,7 @@ number = text
 }
 user = conn.user.jid.split`@`[0] + '@s.whatsapp.net'
 bot = conn.user.jid.split`@`[0] 
-bant = `🧸 *Etiquete A Una Persona*\n\nEjemplo: !${command} @573218138672`
+bant = `💮🌸 *Etiquete A Una Persona*\n\nEjemplo: !${command} @526673044254`
 if (!text && !m.quoted) return conn.reply(m.chat, bant, m, { mentions: [user] })               
 try {
 if(text) {
@@ -30,7 +30,7 @@ for (let i = 0; i < global.owner.length; i++) {
 ownerNumber = global.owner[i][0];
 if (user.replace(/@s\.whatsapp\.net$/, '') === ownerNumber) {
 aa = ownerNumber + '@s.whatsapp.net'
-await conn.reply(m.chat, `🧸 *No Se Puede Banear El Propietario* @${ownerNumber} Del Bot : ${sk}`, m, { mentions: [aa] })
+await conn.reply(m.chat, `🌸💮 *No Se Puede Banear El Propietario* @${ownerNumber} Del Bot : ${sk}`, m, { mentions: [aa] })
 return
 }}
 users = global.db.data.users
