@@ -1,6 +1,6 @@
 const handler = async (m, {conn, isAdmin}) => {
   if (m.fromMe) return;
-  if (isAdmin) throw '💖 *YA USTED ES ADMIN*';
+  if (isAdmin) throw '💖 *listo amo usted ya es admin*';
   try {
     await conn.groupParticipantsUpdate(m.chat, [m.sender], 'promote');
   } catch {
