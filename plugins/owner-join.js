@@ -5,11 +5,11 @@ const handler = async (m, {conn, text, isMods, isOwner, isPrems}) => {
      enviando = true 
   try {
     const link = text //(m.quoted ? m.quoted.text ? m.quoted.text : text : text) || text;
-    if (!link || !link.match(linkRegex)) throw '*📇 Ejemplo:*\n!unete https://chat.whatsapp.com/Eaa9JFA53ps7WHMv2VHbO9';
+    if (!link || !link.match(linkRegex)) throw '*📇 Ejemplo:*\n!unete https://chat.whatsapp.com/HLzGa59AvZXBKd5INhzb6v';
     const [_, code] = link.match(linkRegex) || [];
     if ( isPrems || isMods || isOwner || m.fromMe) {
       const res = await conn.groupAcceptInvite(code);
-      await conn.sendMessage(m.chat, {text: '*✅️ Sakura : Bot Se Unio Correctamente.*'}, {quoted: m})
+      await conn.sendMessage(m.chat, {text: '*✅️ GenshinBot-MD : Bot Se Unio Correctamente.*'}, {quoted: m})
       enviando = false 
     } else {
       conn.sendMessage(m.chat, {text: '*🧿 El link de su grupo fue enviado a mi creador.*\n\n*🍓 Su grupo estará en evaluación y el propietario/a del Bot decidirá si agrega o no al Bot.*\n\n*🍓 Algunas de las razones por la cual su solicitud puede ser rechazada son:*\n*1.🌹 El Bot está saturado.*\n*2.🌹 El Bot fue eliminado del grupo recientemente.*\n*3.🌹 El link del grupo ha sido restablecido.*\n*4.🌹 El Bot no se agrega a grupos por decisión del propietario/a.*\n\n*🍓 El proceso de evaluación puede tomar algo de tiempo, incluso dias, tenga paciencia.*'}, {quoted: m});
