@@ -1,9 +1,9 @@
 const handler = async (m, {conn, text}) => {
-  if (!text) throw '🧸 *Etiqueta A Un Usuario*';
+  if (!text) throw '🌸💮 *Etiqueta A Un Usuario*';
   let who;
   if (m.isGroup) who = m.mentionedJid[0];
   else who = m.chat;
-  if (!who) throw '🧸 *Etiqueta A Un Usuario*';
+  if (!who) throw '🌸💮 *Etiqueta A Un Usuario*';
   const users = global.db.data.users;
   users[who].banned = false;
   conn.reply(m.chat, `✅️ *Se Desbaneo Al Usuario Con Éxito*`, m);
