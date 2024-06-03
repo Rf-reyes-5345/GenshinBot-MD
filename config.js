@@ -30,7 +30,7 @@ global.contactos = [
 global.suittag = ['59175409126'];
 global.prems = ['526673044254'];
 
-global.lenguajeSK = es //idioma de sakurabot
+global.lenguajeSK = es //idioma de GenshinBot
 
 //• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 🍁
 global.packname = '𝕲𝖊𝖓𝖘𝖍𝖎𝖓-𝕭𝖔𝖙-𝕸𝕯 🌸';
@@ -60,11 +60,11 @@ global.imagen7 = fs.readFileSync('./AhoraQue.png');
 global.imagen8 = fs.readFileSync('./Que.jpg');
 
 //• ↳ ◜𝑳𝑰𝑵𝑲𝑺◞ • 🌿
-global.gp1 = 'https://chat.whatsapp.com/HLzGa59AvZXBKd5INhzb6v' //Grupo Oficial De SakuraBot
+global.gp1 = 'https://chat.whatsapp.com/HLzGa59AvZXBKd5INhzb6v' //Grupo Oficial GenshinBot-MD
 
-global.gp2 = 'https://chat.whatsapp.com/IOWKh5bcqnuDb6xGuae3vU' //CuriosityBot Y SakuraBot
+global.gp2 = 'https://chat.whatsapp.com/IOWKh5bcqnuDb6xGuae3vU' //LINK
 
-global.gp3 = 'https://chat.whatsapp.com/EjBCJvspkasDrd5HmadiLY' //NovaBot Y SakuraBot
+global.gp3 = 'https://chat.whatsapp.com/EjBCJvspkasDrd5HmadiLY' //A
 
 global.channel = 'https://whatsapp.com/channel/0029VaQD7LAJP216tu9liI2A' //Canal Oficial
 
@@ -93,7 +93,7 @@ global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', s
 global.wm2 = `${dia} ${fecha}\nGenshinBot`;
 global.gt = 'GenshinBot';
 global.mysticbot = 'GenshinBot';
-global.mysticbot = 'https://github.com/Jhonatancondori/GenshinBot-MD';
+global.mysticbot = 'https://github.com/Rf-reyes-5345/GenshinBot-MD';
 global.nomorown = '59175409126';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
