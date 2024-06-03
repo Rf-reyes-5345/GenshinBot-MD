@@ -1554,7 +1554,7 @@ let date = d.toLocaleDateString('es', { day: 'numeric', month: 'long', year: 'nu
 
 global.dfail = (type, m, conn) => {
   const msg = {
-    rowner: '*¡Este Comando Es Exclusivo Para Mi Desarrollador!*',
+    rowner: '*¡Este Comando Es Exclusivo Para Mi Creador!*',
     owner: '*¡El Uso Del Comando Solo Lo Puede Usar Mi Desarrollador!*',
     mods: '*¡Esta Función Solo Lo Puede Utilizar Mi Propietario!*',
     premium: '*¡Esta Función Solo Se Puede Usar Por Los Usuarios Premium*',
@@ -1562,7 +1562,7 @@ global.dfail = (type, m, conn) => {
     private: '*¡Esta Función Solo Se Puede Utilizar Al Chat Privado Del Bot!*',
     admin: '*¡Esta Función Solo Se Puede Utilizar Por Un Admin Del Grupo!*',
     botAdmin: '*!Para Poder Utilizar Este Comando Es Necesario Que El Bot Sea Admin!*',
-    unreg: '*¡Para Continuar Con Esta Función Es Necesario Registrarse!*\n\n!verificar nombre.edad\n\n*Uso Correcto* : !verificar Anahi.17',
+    unreg: '*¡Para Continuar Con Esta Función Es Necesario Registrarse!*\n\n!verificar nombre.edad\n\n*Uso Correcto* : !verificar Israel.18',
     restrict: '*!Esta Función Fué Deshabilitado Por Mi Desarrollador*',
     }[type];
   const aa = {quoted: m, userJid: conn.user.jid};
