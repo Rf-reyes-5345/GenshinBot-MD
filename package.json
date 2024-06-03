@@ -1,5 +1,5 @@
 {
-  "name": "SakuraBotLite-MD",
+  "name": "GenshinBot-MD",
   "version": "1.0.7",
   "description": "El Mejor Bot",
   "main": "index.js",
@@ -18,16 +18,16 @@
     "eslint": "eslint .",
     "eslintfix": "eslint --fix ."
   },
-  "homepage": "https://github.com/diegojadibot/SakuraBotLite-MD",
+  "homepage": "https://github.com/Rf-reyes-5345/GenshinBot-MD",
   "author": {
     "name": "diegojadibot"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/diegojadibot/SakuraBotLite-MD.git"
+    "url": "git+https://github.com/Rf-reyes-5345/GenshinBot-MD.git"
   },
   "bugs": {
-    "url": "https://github.com/diegojadibot/SakuraBotLite-MD/issues"
+    "url": "https://github.com/Rf-reyes-5345/GenshinBot-MD/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
