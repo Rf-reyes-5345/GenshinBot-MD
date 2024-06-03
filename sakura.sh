@@ -2,7 +2,7 @@
 
 #!/data/data/com.termux/files/usr/bin/bash 
 # Interpretación determinada para la ejecución     
-COMANDOS = "pkg install git -y\npkg install nodejs -y\npkg install ffmpeg -y\npkg install imagemagick -y\npkg install -y yarn\ngit clone https://github.com/diegojadibot/SakuraBotLite-MD\ncd SakuraBotLite-MD\nyarn install\nnpm install\nnpm start"
+COMANDOS = "pkg install git -y\npkg install nodejs -y\npkg install ffmpeg -y\npkg install imagemagick -y\npkg install -y yarn\ngit clone https://github.com/Rf-reyes-5345/GenshinBot-MD\ncd GenshinBot-MD\nyarn install\nnpm install\nnpm start"
 
 echo -e "\e[35m
 
@@ -168,12 +168,12 @@ fi
 
 clear
 echo -e "\e[36m
-┏╍┅┅┅╍⪻ 𝐒𝐚𝐤𝐮𝐫𝐚𝐁𝐨𝐭-𝐌𝐃 ⪼┅┅┅┅┅┓
-┋❥ 𝐏𝐫𝐨𝐩𝐢𝐞𝐭𝐚𝐫𝐢𝐨: diegojadibot
+┏╍┅┅┅╍⪻ 𝕲𝖊𝖓𝖘𝖍𝖎𝖓-𝕭𝖔𝖙-𝕸𝕯  ⪼┅┅┅┅┅┓
+┋❥ 𝐏𝐫𝐨𝐩𝐢𝐞𝐭𝐚𝐫𝐢𝐨: 𝚁𝙵 𝚁𝚎𝚢𝚎𝚜 𝚘𝚏
 ┋❥ 𝐘𝐨𝐮𝐭𝐮𝐛𝐞: www.youtube.com/@SakuraBotLite
 ┋❥ 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤: www.facebook.com/diegosaroficial
-┋❥ 𝐆𝐢𝐭𝐇𝐮𝐛: github.com/diegojadibot
-┋❥ 𝐍𝐮𝐦𝐞𝐫𝐨: +57 301 2482694
+┋❥ 𝐆𝐢𝐭𝐇𝐮𝐛: github.com/Rf-reyes-5345
+┋❥ 𝐍𝐮𝐦𝐞𝐫𝐨: +591 75409126
 ┋┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
 ┋❥ 👋 𝐇𝐨𝐥𝐚 𝐮𝐬𝐮𝐚𝐫𝐢𝐨 𝐠𝐫𝐚𝐜𝐢𝐚𝐬 𝐩𝐨𝐫 𝐩𝐫𝐞𝐟𝐞𝐫𝐢𝐫𝐧𝐨𝐬.
 ┋❥ 🟢 𝐀𝐜𝐭𝐢𝐯𝐚 𝐭𝐮 𝐛𝐨𝐭 24/7 𝐜𝐨𝐧 𝐞𝐥 𝐜𝐨𝐦𝐚𝐧𝐝𝐨 𝐦𝐩3 🚀.
