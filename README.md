@@ -1,4 +1,4 @@
-> 🚩🧿Versión Del Bot: 1.0.7
+𝕲𝖊𝖓𝖘𝖍𝖎𝖓-𝕭𝖔𝖙-𝕸𝕯 
 
 ###  Genshin - Bot - MD 🌸
 <p align="center">
@@ -76,7 +76,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 > ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd cd GenshinBot-MD
-> rm -rf GenshinBotSession
+> rm -rf SakuraSession
 > npm start
 ```
 - ### 📍ACTUALIZACION DEL BOT 🟢
@@ -116,6 +116,6 @@ para usuarios del heroku
 
 ### Editor Y Propietario Del Bot 🌹⚡️
 <a
-href="https://github.com/Rf-reyes-5345"><img src="https://github.com/Reyes5345.png" width="200" height="200" alt="Reyes"/></a>
+href="https://github.com/Rf-reyes-5345"><img src="https://github.com/Rf-reyes-5345.png" width="200" height="200" alt="Reyes"/></a>
 
 
