@@ -978,7 +978,8 @@ if (!('sDemote' in chat)) chat.sDemote = ''
 if (!('sCondition' in chat)) chat.sCondition = JSON.stringify([{ grupo: { usuario: [], condicion: [], admin: '' }, prefijos: []}])
 if (!('delete' in chat)) chat.delete = false                   
 if (!('modohorny' in chat)) chat.modohorny = true       
-if (!('stickers' in chat)) chat.stickers = false            
+if (!('stickers' in chat)) chat.stickers = false  
+if (!('pareja' in chat)) chat.pareja = true
 if (!('autosticker' in chat)) chat.autosticker = false      
 if (!('audios' in chat)) chat.audios = true               
 if (!('antiver' in chat)) chat.antiver = false 
@@ -1023,6 +1024,7 @@ audios: false,
 antiver: true,
 antiPorn: true,
 antiLink: false,
+pareja: true,
 antiLink2: false,
 antiTiktok: false,
 antiYoutube: false,
