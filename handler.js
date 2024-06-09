@@ -92,8 +92,8 @@ export async function handler(chatUpdate) {
           if (!isNumber(user.stroberi)) user.stroberi = 0;
         }
         if (!isNumber(user.afk)) user.afk = -1;
-                if (!('autolevelup' in user)) user.autolevelup = true;
-                if (!('role' in user)) user.role = 'Novato';
+        if (!('autolevelup' in user)) user.autolevelup = true;
+        if (!('role' in user)) user.role = 'Novato';
         if (!('muto' in user)) user.muto = false
         if (!isNumber(user.agility)) user.agility = 0;
         if (!isNumber(user.anakanjing)) user.anakanjing = 0;
@@ -184,10 +184,10 @@ export async function handler(chatUpdate) {
         if (!isNumber(user.exp)) user.exp = 0;
         if (!isNumber(user.expg)) user.expg = 0;
         if (!isNumber(user.exphero)) user.exphero = 0;
-                if (!isNumber(user.eleksirb)) user.eleksirb = 0;
-                if (!isNumber(user.emasbatang)) user.emasbatang = 0;
-                if (!isNumber(user.emasbiasa)) user.emasbiasa = 0;
-                if (!isNumber(user.fideos)) user.fideos = 0;
+        if (!isNumber(user.eleksirb)) user.eleksirb = 0;
+        if (!isNumber(user.emasbatang)) user.emasbatang = 0;
+        if (!isNumber(user.emasbiasa)) user.emasbiasa = 0;
+        if (!isNumber(user.fideos)) user.fideos = 0;
         if (!isNumber(user.fishingrod)) user.fishingrod = 0;
         if (!isNumber(user.fishingroddurability)) user.fishingroddurability = 0;
         if (!isNumber(user.fortress)) user.fortress = 0;
