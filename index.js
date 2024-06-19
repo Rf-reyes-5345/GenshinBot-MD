@@ -15,12 +15,12 @@ const { name, author } = require(join(__dirname, './package.json')) // https://w
 const { say } = cfonts
 const rl = createInterface(process.stdin, process.stdout)
 
-say('Genshin\nBot\nMD', {
+say('Sakura\nBotLite\nMD', {
 font: 'block',
 align: 'center',
 colors: ['cyan', 'blue']
 })
-say(`Bot En Desarrollo, RF Reyes OFC`, {
+say(`Bot En Desarrollo, By: Diego Oficial`, {
 font: 'console',
 gradient: ['blue', 'magenta']
 })
