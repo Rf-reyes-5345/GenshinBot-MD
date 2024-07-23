@@ -60,7 +60,7 @@ global.imagen7 = fs.readFileSync('./AhoraQue.png');
 global.imagen8 = fs.readFileSync('./Que.jpg');
 
 //• ↳ ◜𝑳𝑰𝑵𝑲𝑺◞ • 🌿
-global.gp1 = 'https://chat.whatsapp.com/HLzGa59AvZXBKd5INhzb6v' //Grupo Oficial GenshinBot-MD
+global.gp1 = 'https://chat.whatsapp.com/GdT4VnyryCZ86JMegXLRmi' //Grupo Oficial GenshinBot-MD
 
 global.gp2 = 'https://chat.whatsapp.com/IOWKh5bcqnuDb6xGuae3vU' //LINK
 
